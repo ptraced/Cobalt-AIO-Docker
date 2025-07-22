@@ -2,7 +2,7 @@
 Cobalt All In One Docker (API + UI)
 
 
-# Credit
+# Credits
 - https://github.com/NotNite/cobalt-web-docker
 
 
